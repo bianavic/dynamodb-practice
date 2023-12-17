@@ -1,0 +1,34 @@
+{
+  "Music": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": {"S": "Emicida"},
+          "SongTitle": {"S": "Passarinhos"},
+          "AlbumTitle": {"S": "Sobre Crianças, Quadris, Pesadelos e Lições de Casa..."},
+          "SongYear": {"S": "2015"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": {"S": "Emicida"},
+          "SongTitle": {"S": "AmarElo"},
+          "AlbumTitle": {"S": "AmarElo – Ao Vivo"},
+          "SongYear": {"S": "2019"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": {"S": "Emicida"},
+          "SongTitle": {"S": "Hoje Cedo"},
+          "AlbumTitle": {"S": "Emicida O Glorioso Retorno de Quem Nunca Esteve Aqui"},
+          "SongYear": {"S": "1992"}
+        }
+      }
+    }
+  ]
+}
